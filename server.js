@@ -1,5 +1,5 @@
 const express = require("express");
-const BlogRouter = require("./data/db-router.js");
+const BlogRouter = require("./Router/db-router.js");
 
 const server = express();
 
